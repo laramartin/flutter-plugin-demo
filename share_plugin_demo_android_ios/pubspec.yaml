@@ -10,6 +10,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_web_plugins:
+    sdk: flutter
+  url_launcher: ^5.7.10
 
 dev_dependencies:
   flutter_test:
@@ -24,3 +27,6 @@ flutter:
         pluginClass: SharePluginAndroid
       ios:
         pluginClass: SharePluginDemoAndroidIosPlugin
+      web:
+        pluginClass: SharePluginDemoAndroidIosWeb
+        fileName: share_plugin_demo_android_ios_web.dart

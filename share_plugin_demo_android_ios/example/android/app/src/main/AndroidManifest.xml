@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.share_plugin_demo_android_ios_example">
+    package="com.example.example">
    <application
-        android:label="share_plugin_demo_android_ios_example"
+        android:label="example"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

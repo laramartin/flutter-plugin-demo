@@ -1,6 +1,6 @@
-# share_plugin_demo_android_ios_example
+# example
 
-Demonstrates how to use the share_plugin_demo_android_ios plugin.
+A new Flutter project.
 
 ## Getting Started
 
