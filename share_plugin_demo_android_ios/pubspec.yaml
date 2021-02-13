@@ -23,4 +23,4 @@ flutter:
         package: com.example.share_plugin_demo_android_ios
         pluginClass: SharePluginAndroid
       ios:
-        pluginClass: SharePluginIos
+        pluginClass: SharePluginDemoAndroidIosPlugin

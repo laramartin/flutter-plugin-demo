@@ -75,7 +75,6 @@ public class SharePluginAndroid implements FlutterPlugin, MethodCallHandler, Act
 
     @Override
     public void onDetachedFromActivity() {
-
         this.activity = null;
     }
 }
